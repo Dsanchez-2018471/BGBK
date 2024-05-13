@@ -9,7 +9,7 @@
     "start": "node app.js",
     "dev": "nodemon app.js"
   },
-  "author": "Angel Reyes",
+  "author": "Derick Sanchez",
   "license": "ISC",
   "dependencies": {
     "axios": "^1.6.8",
